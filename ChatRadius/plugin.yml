@@ -1,0 +1,8 @@
+name: ChatRadius
+main: me.hammale.chat.chat.chat
+version: 1.0
+author: hammale
+commands:
+  cr:
+    description:
+    usage: |
